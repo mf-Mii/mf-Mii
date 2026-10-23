@@ -1,15 +1,23 @@
 <h1 align="center">About mf_Mii</h1>
-<h3 align="center">A developer of highschool student in Japan</h3>
+<h3 align="center">A developer of academic student in Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mf-mii&label=Profile%20views&color=0e75b6&style=flat" alt="mf-mii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mf-mii" alt="mf-mii" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mf-mii" alt="mf-mii" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/jp_mf_mii" target="blank"><img src="https://img.shields.io/twitter/follow/jp_mf_mii?logo=twitter&style=for-the-badge" alt="jp_mf_mii" /></a> </p>
 
-- All of my projects are available at [https://www.mfmii.work/](https://www.mfmii.work/)
+- All of my projects are available at ~~https://www.mfmii.work/~~ **Now I'm setting up**
 
-- Contacts [**__contact@mfmii.work__**](mailto:contact@mfmii.work) or [**__Contact Form__**](https://www.mfmii.work/contact)
+- Contacts ~~[**__contact@mfmii.work__**] or [**__Contact Form__**]~~ Please DM my X Account
+
+> [!IMPORTANT]
+> I have lost control of my domain, `mfmii[.]work`, so **PLEASE DO NOT VISIT ANY OF MY SITES**.
+> The site is now unsafe.
+> I sincerely apologize for my mistakes.
+> 
+> I am currently registering a new domain and setting everything up.
+> Once everything is ready, I will update all the links and post an announcement here.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
