@@ -1,5 +1,5 @@
 <h1 align="center">About mf_Mii</h1>
-<h3 align="center">A developer of academic student in Japan</h3>
+<h3 align="center">A student developer in Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mf-mii&label=Profile%20views&color=0e75b6&style=flat" alt="mf-mii" /> </p>
 
