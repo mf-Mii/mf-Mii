@@ -7,16 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/jp_mf_mii" target="blank"><img src="https://img.shields.io/twitter/follow/jp_mf_mii?logo=twitter&style=for-the-badge" alt="jp_mf_mii" /></a> </p>
 
-- All of my projects are available at ~~https://www.mfmii.work/~~ **Now I'm setting up**
+- All of my projects are available at ~~https://www.mfmii[.]work/~~ **Now I'm setting up**
 
-- Contacts ~~[**__contact@mfmii.work__**] or [**__Contact Form__**]~~ Please DM my X Account
+- Contacts ~~[**__contact@mfmii[.]work__**] or [**__Contact Form__**]~~ Please DM my X Account
 
-> [!IMPORTANT]
+> [!CAUTION]
 > I have lost control of my domain, `mfmii[.]work`, so **PLEASE DO NOT VISIT ANY OF MY SITES**.
+>
 > The site is now unsafe.
+>
 > I sincerely apologize for my mistakes.
 > 
 > I am currently registering a new domain and setting everything up.
+>
 > Once everything is ready, I will update all the links and post an announcement here.
 
 <h3 align="left">Connect with me:</h3>
